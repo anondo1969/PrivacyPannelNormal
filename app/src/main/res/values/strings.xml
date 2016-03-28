@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Privacy Panel</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_transperancy_control">Transparency Control</string>
+    <string name="title_activity_application_list">Application List</string>
+    <string name="title_activity_application_details">Application Details</string>
+    <string name="title_activity_application_permission">Application Permissions</string>
+    <string name="title_activity_permission_specific_application">Permission Specific Application\'s
+        Name
+    </string>
+    <string name="location_for_application_select_text">Please select the application names for setting fake locations.</string>>
+    <string name="title_activity_user_profile">User Profile</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="title_activity_user_profile_view">User Profile</string>
+    <string name="title_activity_location_accuracy_view">Location Security</string>
+    <string name="title_activity_location_used_apps_selection">LocationUsedAppsSelectionActivity
+    </string>
+</resources>
